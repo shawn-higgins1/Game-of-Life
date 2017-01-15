@@ -1,2 +1,2 @@
 # Game-of-Life
-# My Conways game of life program
+# My Conway's game of life program
